@@ -2,7 +2,7 @@
 
 ## Description:
 
-A Counter that Counts Words. Create a component that displays a textarea, a button, and a count of the number of words in the textarea. When the button is clicked, the count should update to reflect the number of words in the textarea.
+**A counter that counts words.** Create a component that displays a textarea, a button, and a count of the number of words in the textarea. When the button is clicked, the count should update to reflect the number of words in the textarea.
 
 1. The component should use `useState` to store the text that the user has entered into the textarea.
 2. The component should use `useEffect` to update the word count whenever the text in the textarea changes.
